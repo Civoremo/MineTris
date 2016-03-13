@@ -1,0 +1,430 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>mainGame\blue.png</Source>
+      <Name>mainGame\blue</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor">255, 255, 255, 255</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\C# files\Visual Studio 2010\Projects\MineTris\MineTris\MineTris\bin\x86\Debug\Content\mainGame\blue.xnb</Output>
+      <Time>2012-11-07T20:33:36-05:00</Time>
+    </Item>
+    <Item>
+      <Source>mainGame\layout background.png</Source>
+      <Name>mainGame\layout background</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\C# files\Visual Studio 2010\Projects\MineTris\MineTris\MineTris\bin\x86\Debug\Content\mainGame\layout background.xnb</Output>
+      <Time>2014-09-07T18:47:42.0794915-04:00</Time>
+    </Item>
+    <Item>
+      <Source>mainGame\green.png</Source>
+      <Name>mainGame\green</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor">255, 255, 255, 255</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\C# files\Visual Studio 2010\Projects\MineTris\MineTris\MineTris\bin\x86\Debug\Content\mainGame\green.xnb</Output>
+      <Time>2012-11-07T20:33:36-05:00</Time>
+    </Item>
+    <Item>
+      <Source>mainGame\purple.png</Source>
+      <Name>mainGame\purple</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor">255, 255, 255, 255</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\C# files\Visual Studio 2010\Projects\MineTris\MineTris\MineTris\bin\x86\Debug\Content\mainGame\purple.xnb</Output>
+      <Time>2012-11-07T20:33:36-05:00</Time>
+    </Item>
+    <Item>
+      <Source>mainGame\red.png</Source>
+      <Name>mainGame\red</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor">255, 255, 255, 255</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\C# files\Visual Studio 2010\Projects\MineTris\MineTris\MineTris\bin\x86\Debug\Content\mainGame\red.xnb</Output>
+      <Time>2012-11-07T20:33:36-05:00</Time>
+    </Item>
+    <Item>
+      <Source>mainGame\yellow.png</Source>
+      <Name>mainGame\yellow</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\C# files\Visual Studio 2010\Projects\MineTris\MineTris\MineTris\bin\x86\Debug\Content\mainGame\yellow.xnb</Output>
+      <Time>2012-11-07T20:33:36-05:00</Time>
+    </Item>
+    <Item>
+      <Source>mainGame\gameoverScreen.png</Source>
+      <Name>mainGame\gameoverScreen</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\C# files\Visual Studio 2010\Projects\MineTris\MineTris\MineTris\bin\x86\Debug\Content\mainGame\gameoverScreen.xnb</Output>
+      <Time>2014-09-13T17:28:41.9927234-04:00</Time>
+    </Item>
+    <Item>
+      <Source>mainMenu\mainMenu.png</Source>
+      <Name>mainMenu\mainMenu</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\C# files\Visual Studio 2010\Projects\MineTris\MineTris\MineTris\bin\x86\Debug\Content\mainMenu\mainMenu.xnb</Output>
+      <Time>2014-09-13T17:27:02.0433491-04:00</Time>
+    </Item>
+    <Item>
+      <Source>mainMenu\exitButtonOff.png</Source>
+      <Name>mainMenu\exitButtonOff</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor">255, 255, 255, 255</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\C# files\Visual Studio 2010\Projects\MineTris\MineTris\MineTris\bin\x86\Debug\Content\mainMenu\exitButtonOff.xnb</Output>
+      <Time>2014-09-14T16:13:46.3373134-04:00</Time>
+    </Item>
+    <Item>
+      <Source>mainMenu\exitButtonOn.png</Source>
+      <Name>mainMenu\exitButtonOn</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor">255, 255, 255, 255</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\C# files\Visual Studio 2010\Projects\MineTris\MineTris\MineTris\bin\x86\Debug\Content\mainMenu\exitButtonOn.xnb</Output>
+      <Time>2014-09-14T16:13:46.3373134-04:00</Time>
+    </Item>
+    <Item>
+      <Source>mainMenu\optionsButtonOff.png</Source>
+      <Name>mainMenu\optionsButtonOff</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor">255, 255, 255, 255</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\C# files\Visual Studio 2010\Projects\MineTris\MineTris\MineTris\bin\x86\Debug\Content\mainMenu\optionsButtonOff.xnb</Output>
+      <Time>2014-09-14T16:13:46.3373134-04:00</Time>
+    </Item>
+    <Item>
+      <Source>mainMenu\optionsButtonOn.png</Source>
+      <Name>mainMenu\optionsButtonOn</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor">255, 255, 255, 255</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\C# files\Visual Studio 2010\Projects\MineTris\MineTris\MineTris\bin\x86\Debug\Content\mainMenu\optionsButtonOn.xnb</Output>
+      <Time>2014-09-14T16:13:46.3373134-04:00</Time>
+    </Item>
+    <Item>
+      <Source>mainMenu\startButtonOff.png</Source>
+      <Name>mainMenu\startButtonOff</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor">255, 255, 255, 255</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\C# files\Visual Studio 2010\Projects\MineTris\MineTris\MineTris\bin\x86\Debug\Content\mainMenu\startButtonOff.xnb</Output>
+      <Time>2014-09-14T16:13:46.3373134-04:00</Time>
+    </Item>
+    <Item>
+      <Source>mainMenu\startButtonOn.png</Source>
+      <Name>mainMenu\startButtonOn</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor">255, 255, 255, 255</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\C# files\Visual Studio 2010\Projects\MineTris\MineTris\MineTris\bin\x86\Debug\Content\mainMenu\startButtonOn.xnb</Output>
+      <Time>2014-09-14T16:13:46.3373134-04:00</Time>
+    </Item>
+    <Item>
+      <Source>mainMenu\TitleTex.png</Source>
+      <Name>mainMenu\TitleTex</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor">255, 255, 255, 255</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\C# files\Visual Studio 2010\Projects\MineTris\MineTris\MineTris\bin\x86\Debug\Content\mainMenu\TitleTex.xnb</Output>
+      <Time>2014-09-14T17:04:06.1766655-04:00</Time>
+    </Item>
+    <Item>
+      <Source>mainGame\leftBorderTex.png</Source>
+      <Name>mainGame\leftBorderTex</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor">255, 255, 255, 255</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\C# files\Visual Studio 2010\Projects\MineTris\MineTris\MineTris\bin\x86\Debug\Content\mainGame\leftBorderTex.xnb</Output>
+      <Time>2014-09-14T18:10:17.0128539-04:00</Time>
+    </Item>
+    <Item>
+      <Source>mainGame\rightBorderTex.png</Source>
+      <Name>mainGame\rightBorderTex</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor">255, 255, 255, 255</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\C# files\Visual Studio 2010\Projects\MineTris\MineTris\MineTris\bin\x86\Debug\Content\mainGame\rightBorderTex.xnb</Output>
+      <Time>2014-09-14T18:10:17.0128539-04:00</Time>
+    </Item>
+    <Item>
+      <Source>mainGame\topBorderTex.png</Source>
+      <Name>mainGame\topBorderTex</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor">255, 255, 255, 255</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\C# files\Visual Studio 2010\Projects\MineTris\MineTris\MineTris\bin\x86\Debug\Content\mainGame\topBorderTex.xnb</Output>
+      <Time>2014-09-14T18:39:11.2640433-04:00</Time>
+    </Item>
+    <Item>
+      <Source>mainGame\gray.png</Source>
+      <Name>mainGame\gray</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor">255, 255, 255, 255</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\C# files\Visual Studio 2010\Projects\MineTris\MineTris\MineTris\bin\x86\Debug\Content\mainGame\gray.xnb</Output>
+      <Time>2014-06-09T10:52:07.3704119-04:00</Time>
+    </Item>
+    <Item>
+      <Source>pauseGame\mainMenuButtonOff.png</Source>
+      <Name>pauseGame\mainMenuButtonOff</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor">255, 255, 255, 255</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\C# files\Visual Studio 2010\Projects\MineTris\MineTris\MineTris\bin\x86\Debug\Content\pauseGame\mainMenuButtonOff.xnb</Output>
+      <Time>2014-09-21T20:12:21.8259491-04:00</Time>
+    </Item>
+    <Item>
+      <Source>pauseGame\mainMenuButtonOn.png</Source>
+      <Name>pauseGame\mainMenuButtonOn</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor">255, 255, 255, 255</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\C# files\Visual Studio 2010\Projects\MineTris\MineTris\MineTris\bin\x86\Debug\Content\pauseGame\mainMenuButtonOn.xnb</Output>
+      <Time>2014-09-21T20:13:04.3123792-04:00</Time>
+    </Item>
+    <Item>
+      <Source>pauseGame\pausedGameTex.png</Source>
+      <Name>pauseGame\pausedGameTex</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\C# files\Visual Studio 2010\Projects\MineTris\MineTris\MineTris\bin\x86\Debug\Content\pauseGame\pausedGameTex.xnb</Output>
+      <Time>2014-09-21T20:08:05.6292955-04:00</Time>
+    </Item>
+    <Item>
+      <Source>pauseGame\returnButtonOff.png</Source>
+      <Name>pauseGame\returnButtonOff</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor">255, 255, 255, 255</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\C# files\Visual Studio 2010\Projects\MineTris\MineTris\MineTris\bin\x86\Debug\Content\pauseGame\returnButtonOff.xnb</Output>
+      <Time>2014-09-21T20:09:51.1153289-04:00</Time>
+    </Item>
+    <Item>
+      <Source>pauseGame\returnButtonOn.png</Source>
+      <Name>pauseGame\returnButtonOn</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor">255, 255, 255, 255</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\C# files\Visual Studio 2010\Projects\MineTris\MineTris\MineTris\bin\x86\Debug\Content\pauseGame\returnButtonOn.xnb</Output>
+      <Time>2014-09-21T20:10:59.1122181-04:00</Time>
+    </Item>
+    <Item>
+      <Source>pauseGame\restartButtonOff.png</Source>
+      <Name>pauseGame\restartButtonOff</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor">255, 255, 255, 255</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\C# files\Visual Studio 2010\Projects\MineTris\MineTris\MineTris\bin\x86\Debug\Content\pauseGame\restartButtonOff.xnb</Output>
+      <Time>2014-09-21T21:24:36.6195143-04:00</Time>
+    </Item>
+    <Item>
+      <Source>pauseGame\restartButtonOn.png</Source>
+      <Name>pauseGame\restartButtonOn</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor">255, 255, 255, 255</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\C# files\Visual Studio 2010\Projects\MineTris\MineTris\MineTris\bin\x86\Debug\Content\pauseGame\restartButtonOn.xnb</Output>
+      <Time>2014-09-21T21:25:04.8231274-04:00</Time>
+    </Item>
+    <Item>
+      <Source>mainGame\smoke.png</Source>
+      <Name>mainGame\smoke</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor">255, 255, 255, 255</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\C# files\Visual Studio 2010\Projects\MineTris\MineTris\MineTris\bin\x86\Debug\Content\mainGame\smoke.xnb</Output>
+      <Time>2014-09-26T14:54:58.2849461-04:00</Time>
+    </Item>
+    <Item>
+      <Source>mainGame\frameOutline.png</Source>
+      <Name>mainGame\frameOutline</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor">255, 255, 255, 255</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\C# files\Visual Studio 2010\Projects\MineTris\MineTris\MineTris\bin\x86\Debug\Content\mainGame\frameOutline.xnb</Output>
+      <Time>2014-09-27T18:12:24.1396846-04:00</Time>
+    </Item>
+    <Item>
+      <Source>mainGame\topFrame.png</Source>
+      <Name>mainGame\topFrame</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor">255, 255, 255, 255</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\C# files\Visual Studio 2010\Projects\MineTris\MineTris\MineTris\bin\x86\Debug\Content\mainGame\topFrame.xnb</Output>
+      <Time>2014-09-27T18:12:24.1496846-04:00</Time>
+    </Item>
+    <Item>
+      <Source>mainGame\wallFrame2.png</Source>
+      <Name>mainGame\wallFrame2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor">255, 255, 255, 255</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\C# files\Visual Studio 2010\Projects\MineTris\MineTris\MineTris\bin\x86\Debug\Content\mainGame\wallFrame2.xnb</Output>
+      <Time>2014-09-27T18:58:58.8832752-04:00</Time>
+    </Item>
+    <Item>
+      <Source>mainGame\3dBoxEffect.png</Source>
+      <Name>mainGame\3dBoxEffect</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor">255, 255, 255, 255</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\C# files\Visual Studio 2010\Projects\MineTris\MineTris\MineTris\bin\x86\Debug\Content\mainGame\3dBoxEffect.xnb</Output>
+      <Time>2014-09-27T19:17:53.8331819-04:00</Time>
+    </Item>
+    <Item>
+      <Source>mainGame\FPSCounter.spritefont</Source>
+      <Name>mainGame\FPSCounter</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\C# files\Visual Studio 2010\Projects\MineTris\MineTris\MineTris\bin\x86\Debug\Content\mainGame\FPSCounter.xnb</Output>
+      <Time>2014-09-09T09:55:24.0845228-04:00</Time>
+    </Item>
+    <Item>
+      <Source>mainGame\frameOutline2.png</Source>
+      <Name>mainGame\frameOutline2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\C# files\Visual Studio 2010\Projects\MineTris\MineTris\MineTris\bin\x86\Debug\Content\mainGame\frameOutline2.xnb</Output>
+      <Time>2014-11-28T19:52:33.8741447-05:00</Time>
+    </Item>
+    <Item>
+      <Source>mainGame\backgroundTetris.png</Source>
+      <Name>mainGame\backgroundTetris</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\C# files\Visual Studio 2010\Projects\MineTris\MineTris\MineTris\bin\x86\Debug\Content\mainGame\backgroundTetris.xnb</Output>
+      <Time>2014-11-28T20:10:42.0723861-05:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>HiDef</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\C# files\Visual Studio 2010\Projects\MineTris\MineTris\MineTrisContent\</RootDirectory>
+      <LoggerRootDirectory>C:\C# files\Visual Studio 2010\Projects\MineTris\MineTris\MineTris\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\C# files\Visual Studio 2010\Projects\MineTris\MineTris\MineTrisContent\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\C# files\Visual Studio 2010\Projects\MineTris\MineTris\MineTris\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2010-08-23T12:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2010-08-23T12:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2014-07-20T12:53:47.7738611-04:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

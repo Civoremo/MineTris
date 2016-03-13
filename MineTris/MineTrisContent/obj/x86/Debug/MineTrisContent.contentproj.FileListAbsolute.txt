@@ -1,0 +1,3 @@
+C:\Users\NtD\Documents\Visual Studio 2010\Projects\MineTris\MineTris\MineTrisContent\obj\x86\Debug\MineTrisContent.contentprojResolveAssemblyReference.cache
+C:\C# files\Visual Studio 2010\Projects\MineTris\MineTris\MineTrisContent\obj\x86\Debug\MineTrisContent.contentprojResolveAssemblyReference.cache
+E:\C# files\Visual Studio 2010\Projects\MineTris\MineTris\MineTrisContent\obj\x86\Debug\MineTrisContent.contentprojResolveAssemblyReference.cache
